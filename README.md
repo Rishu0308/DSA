@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Rishu0308/DSA/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Rishu0308/DSA/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Rishu0308/DSA/tree/master/0367-valid-perfect-square) |
+| [1492-the-kth-factor-of-n](https://github.com/Rishu0308/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Rishu0308/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Binary Search
 |  |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Rishu0308/DSA/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Rishu0308/DSA/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
