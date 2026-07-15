@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Rishu0308/DSA/tree/master/0771-jewels-and-stones) |
+| [1748-sum-of-unique-elements](https://github.com/Rishu0308/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rishu0308/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/Rishu0308/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## String
@@ -44,5 +45,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1748-sum-of-unique-elements](https://github.com/Rishu0308/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/Rishu0308/DSA/tree/master/2351-first-letter-to-appear-twice) |
+## Array
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/Rishu0308/DSA/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
