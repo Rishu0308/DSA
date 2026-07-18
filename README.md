@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Rishu0308/DSA/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Rishu0308/DSA/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Rishu0308/DSA/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/Rishu0308/DSA/tree/master/0509-fibonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/Rishu0308/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Rishu0308/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Binary Search
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Rishu0308/DSA/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Rishu0308/DSA/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -54,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Rishu0308/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/Rishu0308/DSA/tree/master/2404-most-frequent-even-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Rishu0308/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Rishu0308/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
