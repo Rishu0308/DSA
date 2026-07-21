@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Rishu0308/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rishu0308/DSA/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/Rishu0308/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Rishu0308/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Rishu0308/DSA/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Rishu0308/DSA/tree/master/0367-valid-perfect-square) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Rishu0308/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Rishu0308/DSA/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/Rishu0308/DSA/tree/master/1492-the-kth-factor-of-n) |
 ## Hash Table
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Rishu0308/DSA/tree/master/0204-count-primes) |
 | [1748-sum-of-unique-elements](https://github.com/Rishu0308/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/Rishu0308/DSA/tree/master/2404-most-frequent-even-element) |
 ## Dynamic Programming
@@ -70,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Rishu0308/DSA/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rishu0308/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
