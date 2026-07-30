@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Rishu0308/DSA/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/Rishu0308/DSA/tree/master/0485-max-consecutive-ones) |
+| [0977-squares-of-a-sorted-array](https://github.com/Rishu0308/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1748-sum-of-unique-elements](https://github.com/Rishu0308/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/Rishu0308/DSA/tree/master/2404-most-frequent-even-element) |
 ## Dynamic Programming
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rishu0308/DSA/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Rishu0308/DSA/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Rishu0308/DSA/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
