@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rishu0308/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Rishu0308/DSA/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/Rishu0308/DSA/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Rishu0308/DSA/tree/master/0283-move-zeroes) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rishu0308/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Rishu0308/DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Rishu0308/DSA/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Rishu0308/DSA/tree/master/0905-sort-array-by-parity) |
