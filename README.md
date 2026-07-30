@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Rishu0308/DSA/tree/master/0485-max-consecutive-ones) |
 | [0905-sort-array-by-parity](https://github.com/Rishu0308/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rishu0308/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Rishu0308/DSA/tree/master/1089-duplicate-zeros) |
 | [1748-sum-of-unique-elements](https://github.com/Rishu0308/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/Rishu0308/DSA/tree/master/2404-most-frequent-even-element) |
 ## Dynamic Programming
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rishu0308/DSA/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Rishu0308/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rishu0308/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Rishu0308/DSA/tree/master/1089-duplicate-zeros) |
 ## Sorting
 |  |
 | ------- |
