@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Rishu0308/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rishu0308/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Rishu0308/DSA/tree/master/1089-duplicate-zeros) |
+| [1480-running-sum-of-1d-array](https://github.com/Rishu0308/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/Rishu0308/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/Rishu0308/DSA/tree/master/2404-most-frequent-even-element) |
 ## Dynamic Programming
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rishu0308/DSA/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/Rishu0308/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rishu0308/DSA/tree/master/0977-squares-of-a-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Rishu0308/DSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
