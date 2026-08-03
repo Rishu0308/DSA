@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Rishu0308/DSA/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Rishu0308/DSA/tree/master/0374-guess-number-higher-or-lower) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rishu0308/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Rishu0308/DSA/tree/master/0169-majority-element) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Rishu0308/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
