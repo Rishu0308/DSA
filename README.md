@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rishu0308/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/Rishu0308/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Rishu0308/DSA/tree/master/0374-guess-number-higher-or-lower) |
 ## Bit Manipulation
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rishu0308/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rishu0308/DSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Rishu0308/DSA/tree/master/0204-count-primes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rishu0308/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Rishu0308/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Rishu0308/DSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Rishu0308/DSA/tree/master/0724-find-pivot-index) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rishu0308/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Rishu0308/DSA/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rishu0308/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Interactive
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rishu0308/DSA/tree/master/0048-rotate-image) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rishu0308/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/Rishu0308/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Rishu0308/DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Rishu0308/DSA/tree/master/1572-matrix-diagonal-sum) |
