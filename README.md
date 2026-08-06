@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Rishu0308/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Rishu0308/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1748-sum-of-unique-elements](https://github.com/Rishu0308/DSA/tree/master/1748-sum-of-unique-elements) |
+| [1920-build-array-from-permutation](https://github.com/Rishu0308/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Rishu0308/DSA/tree/master/1929-concatenation-of-array) |
 | [2404-most-frequent-even-element](https://github.com/Rishu0308/DSA/tree/master/2404-most-frequent-even-element) |
 ## Dynamic Programming
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Rishu0308/DSA/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/Rishu0308/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Rishu0308/DSA/tree/master/0867-transpose-matrix) |
+| [1920-build-array-from-permutation](https://github.com/Rishu0308/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Rishu0308/DSA/tree/master/1929-concatenation-of-array) |
 ## Enumeration
 |  |
