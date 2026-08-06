@@ -4,8 +4,8 @@ class Solution {
         int cols=matrix[0].length;
 
         int temp[][] = new int [cols][row];
-        for (int i = 0; i < matrix.length; i++) {
-            for (int j = 0; j < matrix[i].length; j++) {
+        for (int i = 0; i < row; i++) {
+            for (int j = 0; j < cols; j++) {
                 temp[j][i] = matrix[i][j];
             }
         }
