@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Rishu0308/DSA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Rishu0308/DSA/tree/master/0509-fibonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/Rishu0308/DSA/tree/master/1492-the-kth-factor-of-n) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Rishu0308/DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Rishu0308/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Binary Search
 |  |
