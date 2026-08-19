@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Rishu0308/DSA/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Rishu0308/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Rishu0308/DSA/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Rishu0308/DSA/tree/master/0796-rotate-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rishu0308/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Rishu0308/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/Rishu0308/DSA/tree/master/2129-capitalize-the-title) |
@@ -165,5 +166,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Rishu0308/DSA/tree/master/0796-rotate-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Rishu0308/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
