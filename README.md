@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Rishu0308/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Rishu0308/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Rishu0308/DSA/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/Rishu0308/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Rishu0308/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Rishu0308/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Rishu0308/DSA/tree/master/0258-add-digits) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rishu0308/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Rishu0308/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Rishu0308/DSA/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/Rishu0308/DSA/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/Rishu0308/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishu0308/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Rishu0308/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rishu0308/DSA/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Rishu0308/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Rishu0308/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rishu0308/DSA/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/Rishu0308/DSA/tree/master/0832-flipping-an-image) |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0796-rotate-string](https://github.com/Rishu0308/DSA/tree/master/0796-rotate-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Rishu0308/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Rishu0308/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
