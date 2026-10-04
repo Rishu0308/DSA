@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rishu0308/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Rishu0308/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Rishu0308/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Rishu0308/DSA/tree/master/0242-valid-anagram) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rishu0308/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishu0308/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Rishu0308/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Rishu0308/DSA/tree/master/0053-maximum-subarray) |
