@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Rishu0308/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rishu0308/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Rishu0308/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Rishu0308/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Rishu0308/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Rishu0308/DSA/tree/master/0374-guess-number-higher-or-lower) |
 ## Bit Manipulation
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Rishu0308/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Rishu0308/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Rishu0308/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Rishu0308/DSA/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Rishu0308/DSA/tree/master/0832-flipping-an-image) |
 | [2351-first-letter-to-appear-twice](https://github.com/Rishu0308/DSA/tree/master/2351-first-letter-to-appear-twice) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Rishu0308/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Rishu0308/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rishu0308/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Rishu0308/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rishu0308/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishu0308/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Rishu0308/DSA/tree/master/0485-max-consecutive-ones) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Rishu0308/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rishu0308/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Rishu0308/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Rishu0308/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Rishu0308/DSA/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/Rishu0308/DSA/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Rishu0308/DSA/tree/master/0905-sort-array-by-parity) |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Rishu0308/DSA/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Rishu0308/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -244,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rishu0308/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishu0308/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rishu0308/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
