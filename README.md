@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Rishu0308/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Rishu0308/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Rishu0308/DSA/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Rishu0308/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Rishu0308/DSA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Rishu0308/DSA/tree/master/0509-fibonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/Rishu0308/DSA/tree/master/1492-the-kth-factor-of-n) |
@@ -25,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rishu0308/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rishu0308/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Rishu0308/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Rishu0308/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Rishu0308/DSA/tree/master/0374-guess-number-higher-or-lower) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Rishu0308/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Rishu0308/DSA/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Rishu0308/DSA/tree/master/0832-flipping-an-image) |
 | [2351-first-letter-to-appear-twice](https://github.com/Rishu0308/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Recursion
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rishu0308/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Rishu0308/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Rishu0308/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Rishu0308/DSA/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/Rishu0308/DSA/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/Rishu0308/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rishu0308/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -101,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Rishu0308/DSA/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Rishu0308/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rishu0308/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Rishu0308/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rishu0308/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Rishu0308/DSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Rishu0308/DSA/tree/master/0724-find-pivot-index) |
@@ -170,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rishu0308/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rishu0308/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rishu0308/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Rishu0308/DSA/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Rishu0308/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rishu0308/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
