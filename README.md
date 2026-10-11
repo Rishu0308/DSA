@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Rishu0308/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Rishu0308/DSA/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Rishu0308/DSA/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Rishu0308/DSA/tree/master/0832-flipping-an-image) |
 | [2351-first-letter-to-appear-twice](https://github.com/Rishu0308/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Recursion
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rishu0308/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rishu0308/DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishu0308/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/Rishu0308/DSA/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Rishu0308/DSA/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/Rishu0308/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rishu0308/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rishu0308/DSA/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishu0308/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Rishu0308/DSA/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Rishu0308/DSA/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Rishu0308/DSA/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/Rishu0308/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Rishu0308/DSA/tree/master/0867-transpose-matrix) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rishu0308/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rishu0308/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rishu0308/DSA/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Rishu0308/DSA/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Rishu0308/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rishu0308/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
