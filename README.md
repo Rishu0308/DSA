@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Rishu0308/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Rishu0308/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Rishu0308/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Rishu0308/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Rishu0308/DSA/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Rishu0308/DSA/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/Rishu0308/DSA/tree/master/0832-flipping-an-image) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Rishu0308/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Rishu0308/DSA/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Rishu0308/DSA/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Rishu0308/DSA/tree/master/0941-valid-mountain-array) |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Rishu0308/DSA/tree/master/0287-find-the-duplicate-number) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Rishu0308/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
